@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 JUL 2018 13:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 JUL 2018 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -567,7 +567,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Figures/under_damped.png, id=28, 578.16pt x 433.62pt>
 File: Figures/under_damped.png Graphic file (type png)
 <use Figures/under_damped.png>
-Package pdftex.def Info: Figures/under_damped.png  used on input line 304.
+Package pdftex.def Info: Figures/under_damped.png  used on input line 305.
 (pdftex.def)             Requested size: 404.70924pt x 303.53192pt.
 
 
@@ -577,12 +577,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <Figures/morse.png, id=48, 578.16pt x 433.62pt>
 File: Figures/morse.png Graphic file (type png)
 <use Figures/morse.png>
-Package pdftex.def Info: Figures/morse.png  used on input line 534.
+Package pdftex.def Info: Figures/morse.png  used on input line 535.
 (pdftex.def)             Requested size: 251.43036pt x 188.57024pt.
 <Figures/piecewise.png, id=49, 578.16pt x 433.62pt>
 File: Figures/piecewise.png Graphic file (type png)
 <use Figures/piecewise.png>
-Package pdftex.def Info: Figures/piecewise.png  used on input line 538.
+Package pdftex.def Info: Figures/piecewise.png  used on input line 539.
 (pdftex.def)             Requested size: 251.43036pt x 188.57024pt.
  [10 <./Figures/morse.png> <./Figures/piecewise.png>] (./Lecture1_notes.aux) ) 
 Here is how much of TeX's memory you used:
@@ -610,7 +610,7 @@ e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2018/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texm
 f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Lecture1_notes.pdf (10 pages, 259646 bytes).
+Output written on Lecture1_notes.pdf (10 pages, 259652 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream

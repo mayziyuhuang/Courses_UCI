@@ -69,11 +69,11 @@ If the RHS of this expression (B) is equal to 0, the linear equation is called \
 Another way to explain this; if every term in the differential equation contains the function f or any of its derivatives, it is called Homogenous.
 For example equation \ref{eq:homo_ex} is a homogenous equation.
 \be \label{eq:homo_ex}
-\frac{d^2y}{dx^2} + d\frac{dy}{dx} + y = 0
+\frac{d^2y}{dx^2} + \frac{dy}{dx} + y = 0
 \ee
 If there is at least one term that does not contain the function (f) and/or its derivative, it is called Inhomogeneous.
 \be \label{eq:inhomo_ex}
-\frac{d^2y}{dx^2} + d\frac{dy}{dx} + x = 0
+\frac{d^2y}{dx^2} + \frac{dy}{dx} + x = 0
 \ee
 Equation \ref{eq:inhomo_ex} is an inhomogenous differential equation (the x term has no dependence on y).
 
@@ -101,7 +101,7 @@ We can construct the general solution to this equation as
 f = f_0 + \sum_i c_i f_i
 \ee
 Where the $f_0$ term is known as a \textbf{Particular Solution} and the $f_i$ solutions refer to the solution of the associated homogeneous equation.
-There is no formula for finding the particular solution, there are a number of methods we will explore, such as the Method of Undetermined Coefficients, and the Variation of Parameters method.
+There is no formula for finding the particular solution, but there are a number of methods we will explore, such as the Method of Undetermined Coefficients, and the Variation of Parameters method.
 
 \subsection*{ODE: Linear, Homogeneous, Constant Coefficients}
 We will start with the simplest class of ODEs, the linear, homogeneous, constant coefficient ODEs.
@@ -189,6 +189,7 @@ We can consider evaluating the following limit to obtain the resulting second un
 \lim_{\lambda_1\to\ \lambda_2} \frac{e^{\lambda_2 t} - e^{\lambda_1 t}}{\lambda_2 - \lambda_1} = t e^{\lambda_1 t} .
 \ee
 And we see from evaluating the limit that we gain a factor of t.
+% don't understand
 %==============================================================================%
 % Removed second method, not useful for general solution we have
 %==============================================================================%
